@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    shyguy (0.1.0)
+    shyguy (0.1.1)
 
 GEM
   remote: https://rubygems.org/
