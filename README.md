@@ -10,14 +10,11 @@ version need to be eiher stored or displayed.
 
 Install the gem and add to the application's Gemfile by executing:
 
-    $ bundle add shyguy --github=aldavigdis/shyguy-gem --branch 'main'
+    $ bundle add shyguy
 
-If bundler is not being used to manage dependencies, install the gem by
-installing the `specific_install` gem and then executing `gem specific_install`
-like so:
+If bundler is not being used to manage dependencies:
 
-    $ gem install specific_install
-    $ gem specific_install https://github.com/aldavigdis/shyguy-gem
+    $ gem install shyguy
 
 
 ## Usage
